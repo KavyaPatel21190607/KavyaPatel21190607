@@ -47,21 +47,7 @@
 <br>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" alt="Node.js"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" height="48" alt="MongoDB"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/android/3DDC84" width="48" height="48" alt="Android"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="AWS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48" alt="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,android,aws,docker,python,tensorflow&theme=dark" />
 </p>
 
 <p align="center">
@@ -93,19 +79,7 @@
 ## 🌐 Full Stack Development
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="58" height="58" alt="HTML5"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="58" height="58" alt="CSS3"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="58" height="58" alt="JavaScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="58" height="58" alt="TypeScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="58" height="58" alt="React"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="58" height="58" alt="Node.js"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="58" height="58" alt="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express&theme=dark" />
 </p>
 
 <p align="center">
@@ -129,13 +103,7 @@
 ## 🍃 Expert MERN Stack Developer
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="70" height="70" alt="MongoDB"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="70" height="70" alt="Express.js"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="70" height="70" alt="React"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="70" height="70" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
 </p>
 
 <p align="center">
@@ -157,11 +125,7 @@
 ## 📱 Android & iOS Development
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" width="70" height="70" alt="Android"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="70" height="70" alt="iOS"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/flutter/54C5F8" width="70" height="70" alt="Flutter"/>
+  <img src="https://skillicons.dev/icons?i=android,swift,flutter&theme=dark" />
 </p>
 
 <p align="center">
@@ -181,17 +145,7 @@
 ## ☁️ DevOps
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="62" height="62" alt="AWS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="62" height="62" alt="Docker"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="62" height="62" alt="Linux"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="62" height="62" alt="Git"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="62" height="62" alt="GitHub"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nginx/009639" width="62" height="62" alt="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,nginx&theme=dark" />
 </p>
 
 <p align="center">
@@ -217,11 +171,7 @@
 ## 🤖 AI / ML
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="65" height="65" alt="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="65" height="65" alt="TensorFlow"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="65" height="65" alt="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
 </p>
 
 <p align="center">
@@ -243,15 +193,9 @@
 # 💻 Languages I Know
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="65" height="65" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="65" height="65" alt="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="65" height="65" alt="JavaScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="65" height="65" alt="TypeScript"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openjdk/F89820" width="65" height="65" alt="Java"/>
+  <img src="https://cdn.simpleicons.org/java/F89820" width="50" height="50" alt="Java"/>
 </p>
 
 <p align="center">
@@ -271,21 +215,23 @@
 # 🐍 Python Ecosystem
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="58" height="58" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="38"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="38"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="38"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="38"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="58" height="58" alt="Pandas"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="58" height="58" alt="Scikit-learn"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white&labelColor=8CAAE6" height="58" alt="SciPy"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="58" height="58" alt="TensorFlow"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/keras/D00000" width="58" height="58" alt="Keras"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="58" height="58" alt="OpenCV"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="58" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="50"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="50"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="50"/>
 </p>
 
 <p align="center">
@@ -312,13 +258,13 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="65" height="65" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="65" height="65" alt="Wireshark"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="65" height="65" alt="Kali Linux"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" width="65" height="65" alt="OWASP"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="50"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="50"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" height="50"/>
 </p>
 
 <p align="center">
@@ -352,7 +298,7 @@
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KavyaPatel21190607&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly&cache_seconds=86400" width="75%"/>
+  <img src="https://streak-stats.demolab.com?user=KavyaPatel21190607&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly" width="75%"/>
 </p>
 
 ---
