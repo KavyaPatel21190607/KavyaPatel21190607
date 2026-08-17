@@ -16,8 +16,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-2563EB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/MERN-EXPERT-16A34A?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/AI%2FML-EXPLORER-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/CYBERSECURITY-LEARNER-E11D48?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
@@ -25,7 +28,7 @@
   <img src="https://komarev.com/ghpvc/?username=KavyaPatel21190607&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" />
 </p>
 
-<br><br>
+<br>
 
 <!-- ========================================================= -->
 <!--                         WHO AM I                           -->
@@ -44,31 +47,36 @@
 <br>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React" style="margin: 0 10px;"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" alt="Node.js" style="margin: 0 10px;"/>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" height="48" alt="MongoDB" style="margin: 0 10px;"/>
-  <img src="https://cdn.simpleicons.org/android/3DDC84" width="48" height="48" alt="Android" style="margin: 0 10px;"/>
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="AWS" style="margin: 0 10px;"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" style="margin: 0 10px;"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" style="margin: 0 10px;"/>
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48" alt="TensorFlow" style="margin: 0 10px;"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" alt="Node.js"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" height="48" alt="MongoDB"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/android/3DDC84" width="48" height="48" alt="Android"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="AWS"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="48" height="48" alt="TensorFlow"/>
 </p>
-
-<br>
 
 <p align="center">
   <b>Full Stack Developer</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Expert MERN Stack Developer</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Android & iOS Developer</b>
 </p>
 
 <p align="center">
   <b>DevOps</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>AI / ML</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Cybersecurity Learner</b>
 </p>
 
@@ -78,39 +86,37 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=600&color=22C55E&center=true&vCenter=true&width=650&height=40&lines=%24+build+%7C+%24+learn+%7C+%24+experiment+%7C+%24+secure" />
 </p>
 
-<br><br>
-
 ---
 
-<br>
-
 # ⚡ Skills
-
-<br>
 
 ## 🌐 Full Stack Development
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="58" height="58" alt="HTML5" style="margin: 0 14px;"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="58" height="58" alt="CSS3" style="margin: 0 14px;"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="58" height="58" alt="JavaScript" style="margin: 0 14px;"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="58" height="58" alt="TypeScript" style="margin: 0 14px;"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="58" height="58" alt="React" style="margin: 0 14px;"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="58" height="58" alt="Node.js" style="margin: 0 14px;"/>
-  <img src="https://cdn.simpleicons.org/express/000000/FFFFFF" width="58" height="58" alt="Express.js" style="margin: 0 14px; background:#ffffff; border-radius:8px; padding:4px;"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="58" height="58" alt="HTML5"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="58" height="58" alt="CSS3"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="58" height="58" alt="JavaScript"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="58" height="58" alt="TypeScript"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="58" height="58" alt="React"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="58" height="58" alt="Node.js"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="58" height="58" alt="Express.js"/>
 </p>
-
-<br>
 
 <p align="center">
   <b>Frontend</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Backend</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>REST APIs</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Authentication</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Database Architecture</b>
 </p>
 
@@ -118,30 +124,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=700&height=35&lines=Frontend+%E2%86%92+Backend+%E2%86%92+API+%E2%86%92+Database+%E2%86%92+Deployment" />
 </p>
 
-<br><br>
-
 ---
-
-<br>
 
 ## 🍃 Expert MERN Stack Developer
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="70" height="70" alt="MongoDB" style="margin: 0 20px;"/>
-  <img src="https://cdn.simpleicons.org/express/000000/FFFFFF" width="70" height="70" alt="Express.js" style="margin: 0 20px; background:#ffffff; border-radius:10px; padding:5px;"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="70" height="70" alt="React" style="margin: 0 20px;"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="70" height="70" alt="Node.js" style="margin: 0 20px;"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="70" height="70" alt="MongoDB"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="70" height="70" alt="Express.js"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="70" height="70" alt="React"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="70" height="70" alt="Node.js"/>
 </p>
-
-<br>
 
 <p align="center">
   <b>MongoDB</b>
-  &nbsp;&nbsp;×&nbsp;&nbsp;
+  &nbsp; × &nbsp;
   <b>Express.js</b>
-  &nbsp;&nbsp;×&nbsp;&nbsp;
+  &nbsp; × &nbsp;
   <b>React.js</b>
-  &nbsp;&nbsp;×&nbsp;&nbsp;
+  &nbsp; × &nbsp;
   <b>Node.js</b>
 </p>
 
@@ -149,27 +152,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1800&pause=500&color=22C55E&center=true&vCenter=true&width=650&height=40&lines=Design+%E2%86%92+Develop+%E2%86%92+Deploy+%E2%86%92+Scale" />
 </p>
 
-<br><br>
-
 ---
-
-<br>
 
 ## 📱 Android & iOS Development
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" width="70" height="70" alt="Android" style="margin: 0 20px;"/>
-  <img src="https://cdn.simpleicons.org/apple/000000/FFFFFF" width="70" height="70" alt="iOS" style="margin: 0 20px; background:#000000; border-radius:10px; padding:5px;"/>
-  <img src="https://cdn.simpleicons.org/flutter/54C5F8" width="70" height="70" alt="Flutter" style="margin: 0 20px;"/>
+  <img src="https://cdn.simpleicons.org/android/3DDC84" width="70" height="70" alt="Android"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="70" height="70" alt="iOS"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flutter/54C5F8" width="70" height="70" alt="Flutter"/>
 </p>
-
-<br>
 
 <p align="center">
   <b>Android</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>iOS</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Mobile Applications</b>
 </p>
 
@@ -177,36 +176,35 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=600&color=38BDF8&center=true&vCenter=true&width=650&height=35&lines=Android+Development+%7C+iOS+Development;Building+Modern+Mobile+Applications" />
 </p>
 
-<br><br>
-
 ---
-
-<br>
 
 ## ☁️ DevOps
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="62" height="62" alt="AWS" style="margin: 0 16px;"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="62" height="62" alt="Docker" style="margin: 0 16px;"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="62" height="62" alt="Linux" style="margin: 0 16px;"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="62" height="62" alt="Git" style="margin: 0 16px;"/>
-  <img src="https://cdn.simpleicons.org/github/000000/FFFFFF" width="62" height="62" alt="GitHub" style="margin: 0 16px; background:#000000; border-radius:10px; padding:4px;"/>
-  <img src="https://cdn.simpleicons.org/nginx/009639" width="62" height="62" alt="Nginx" style="margin: 0 16px;"/>
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="62" height="62" alt="AWS"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="62" height="62" alt="Docker"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="62" height="62" alt="Linux"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" width="62" height="62" alt="Git"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="62" height="62" alt="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nginx/009639" width="62" height="62" alt="Nginx"/>
 </p>
-
-<br>
 
 <p align="center">
   <b>Cloud</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Containers</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Linux</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Deployment</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Infrastructure</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>CI/CD</b>
 </p>
 
@@ -214,29 +212,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1900&pause=550&color=F59E0B&center=true&vCenter=true&width=700&height=35&lines=Code+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Scale" />
 </p>
 
-<br><br>
-
 ---
-
-<br>
 
 ## 🤖 AI / ML
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="65" height="65" alt="Python" style="margin: 0 18px;"/>
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="65" height="65" alt="TensorFlow" style="margin: 0 18px;"/>
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="65" height="65" alt="PyTorch" style="margin: 0 18px;"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="65" height="65" alt="Python"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="65" height="65" alt="TensorFlow"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="65" height="65" alt="PyTorch"/>
 </p>
-
-<br>
 
 <p align="center">
   <b>Machine Learning</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Deep Learning</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Computer Vision</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Data Science</b>
 </p>
 
@@ -244,65 +238,64 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1900&pause=550&color=A78BFA&center=true&vCenter=true&width=650&height=35&lines=Data+%E2%86%92+Features+%E2%86%92+Model+%E2%86%92+Prediction" />
 </p>
 
-<br><br>
-
 ---
-
-<br>
 
 # 💻 Languages I Know
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="65" height="65" alt="C++" style="margin: 0 18px;"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="65" height="65" alt="Python" style="margin: 0 18px;"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="65" height="65" alt="JavaScript" style="margin: 0 18px;"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="65" height="65" alt="TypeScript" style="margin: 0 18px;"/>
-  <img src="https://cdn.simpleicons.org/openjdk/F89820" width="65" height="65" alt="Java" style="margin: 0 18px;"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="65" height="65" alt="C++"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="65" height="65" alt="Python"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="65" height="65" alt="JavaScript"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="65" height="65" alt="TypeScript"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openjdk/F89820" width="65" height="65" alt="Java"/>
 </p>
-
-<br>
 
 <p align="center">
   <b>C / C++</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Python</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>JavaScript</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>TypeScript</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Java</b>
 </p>
 
-<br><br>
-
 ---
-
-<br>
 
 # 🐍 Python Ecosystem
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="58" height="58" alt="NumPy" style="margin: 0 14px;"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="58" height="58" alt="Pandas" style="margin: 0 14px;"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="58" height="58" alt="Scikit-learn" style="margin: 0 14px;"/>
-  <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="58" height="58" alt="SciPy" style="margin: 0 14px;"/>
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="58" height="58" alt="TensorFlow" style="margin: 0 14px;"/>
-  <img src="https://cdn.simpleicons.org/keras/D00000" width="58" height="58" alt="Keras" style="margin: 0 14px;"/>
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="58" height="58" alt="OpenCV" style="margin: 0 14px;"/>
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="58" height="58" alt="Matplotlib" style="margin: 0 14px;"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="58" height="58" alt="NumPy"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="58" height="58" alt="Pandas"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="58" height="58" alt="Scikit-learn"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white&labelColor=8CAAE6" height="58" alt="SciPy"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="58" height="58" alt="TensorFlow"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/keras/D00000" width="58" height="58" alt="Keras"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="58" height="58" alt="OpenCV"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="58" alt="Matplotlib"/>
 </p>
 
-<br>
-
 <p align="center">
-  <b>NumPy</b> •
-  <b>Pandas</b> •
-  <b>Scikit-learn</b> •
-  <b>SciPy</b> •
-  <b>TensorFlow</b> •
-  <b>Keras</b> •
-  <b>OpenCV</b> •
+  <b>NumPy</b> &nbsp;•&nbsp;
+  <b>Pandas</b> &nbsp;•&nbsp;
+  <b>Scikit-learn</b> &nbsp;•&nbsp;
+  <b>SciPy</b> &nbsp;•&nbsp;
+  <b>TensorFlow</b> &nbsp;•&nbsp;
+  <b>Keras</b> &nbsp;•&nbsp;
+  <b>OpenCV</b> &nbsp;•&nbsp;
   <b>Matplotlib</b>
 </p>
 
@@ -310,11 +303,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1600&pause=450&color=FBBF24&center=true&vCenter=true&width=850&height=35&lines=NumPy+%7C+Pandas+%7C+Scikit-learn+%7C+SciPy+%7C+TensorFlow+%7C+Keras+%7C+OpenCV+%7C+Matplotlib" />
 </p>
 
-<br><br>
-
 ---
-
-<br>
 
 # 🔐 Currently Learning — Cybersecurity
 
@@ -322,26 +311,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=1700&pause=600&color=F43F5E&center=true&vCenter=true&width=800&height=55&lines=%5B+CYBERSECURITY+%5D;%5B+NETWORK+SECURITY+%5D;%5B+SYSTEM+SECURITY+%5D;%5B+WEB+APPLICATION+SECURITY+%5D;%5B+ETHICAL+HACKING+%5D;%5B+CLOUD+SECURITY+%5D" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="65" height="65" alt="Linux" style="margin: 0 18px;"/>
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="65" height="65" alt="Wireshark" style="margin: 0 18px;"/>
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="65" height="65" alt="Kali Linux" style="margin: 0 18px;"/>
-  <img src="https://cdn.simpleicons.org/owasp/000000/FFFFFF" width="65" height="65" alt="OWASP" style="margin: 0 18px; background:#000000; border-radius:10px; padding:5px;"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="65" height="65" alt="Linux"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="65" height="65" alt="Wireshark"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="65" height="65" alt="Kali Linux"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/owasp/FFFFFF" width="65" height="65" alt="OWASP"/>
 </p>
-
-<br>
 
 <p align="center">
   <b>Network Security</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Linux & System Security</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Web Application Security</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Ethical Hacking</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
+  &nbsp; • &nbsp;
   <b>Cloud Security</b>
 </p>
 
@@ -349,41 +337,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1900&pause=550&color=FB7185&center=true&vCenter=true&width=750&height=40&lines=Understand+the+system.;Understand+the+attack.;Understand+the+defense." />
 </p>
 
-<br><br>
-
 ---
-
-<br>
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavyaPatel21190607&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Kavya's%20GitHub%20Stats" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KavyaPatel21190607&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Kavya%27s%20GitHub%20Stats&cache_seconds=86400" height="190"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaPatel21190607&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&cache_seconds=86400" height="190"/>
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaPatel21190607&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" height="190"/>
-</p>
-
-<br><br>
 
 ---
-
-<br>
 
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KavyaPatel21190607&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly" width="75%"/>
+  <img src="https://streak-stats.demolab.com?user=KavyaPatel21190607&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly&cache_seconds=86400" width="75%"/>
 </p>
 
-<br><br>
-
 ---
-
-<br>
 
 # 📈 Contribution Activity
 
@@ -391,22 +363,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavyaPatel21190607&bg_color=020617&color=38bdf8&line=2563eb&point=ffffff&area=true&area_color=1d4ed8&hide_border=true&radius=12&custom_title=Contribution%20Activity" width="96%"/>
 </p>
 
-<br><br>
-
 ---
-
-<br>
 
 # 🐍 Contribution Snake
 
-<!--
-  NOTE: This section requires the "snk" GitHub Action to be set up on your
-  KavyaPatel21190607/KavyaPatel21190607 repo, which generates the SVG below
-  into an "output" branch. If this image shows broken, the Action either
-  hasn't been added yet or hasn't run. Add this workflow at
-  .github/workflows/snake.yml (using Platane/snk@v3) and it will populate
-  automatically on push/schedule.
--->
+> **Setup required:** Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your repo to auto-generate this snake animation on every push.
 
 <p align="center">
   <picture>
@@ -416,11 +377,7 @@
   </picture>
 </p>
 
-<br><br>
-
 ---
-
-<br>
 
 # 🤝 Connect With Me
 
