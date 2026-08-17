@@ -132,7 +132,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="65" alt="Android"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=swift,flutter&theme=dark" />
-  <img src="https://cdn.simpleicons.org/openjdk/F89820" width="65" height="65" alt="Java"/>
+  
   
 </p>
 
@@ -203,7 +203,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,swift&theme=dark" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="50" alt="Java"/>
+  <img src="https://www.svgrepo.com/show/75601/java-logo.svg" width="65" height="65" alt="Java"/>
 </p>
 
 <p align="center">
