@@ -47,7 +47,11 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,android,aws,docker,python,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="50" alt="Android"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws,docker,python,tensorflow&theme=dark" />
 </p>
 
 <p align="center">
@@ -125,7 +129,9 @@
 ## 📱 Android & iOS Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,swift,flutter&theme=dark" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="65" alt="Android"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=swift,flutter&theme=dark" />
 </p>
 
 <p align="center">
@@ -193,9 +199,9 @@
 # 💻 Languages I Know
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/java/F89820" width="50" height="50" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,swift&theme=dark" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="50" alt="Java"/>
 </p>
 
 <p align="center">
@@ -207,6 +213,8 @@
   &nbsp; • &nbsp;
   <b>TypeScript</b>
   &nbsp; • &nbsp;
+  <b>Swift</b>
+  &nbsp; • &nbsp;
   <b>Java</b>
 </p>
 
@@ -215,23 +223,25 @@
 # 🐍 Python Ecosystem
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="36"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="36"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="36"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="38"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="36"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="36"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="36"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="36"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="36"/>
 </p>
 
 <p align="center">
@@ -240,6 +250,7 @@
   <b>Scikit-learn</b> &nbsp;•&nbsp;
   <b>SciPy</b> &nbsp;•&nbsp;
   <b>TensorFlow</b> &nbsp;•&nbsp;
+  <b>PyTorch</b> &nbsp;•&nbsp;
   <b>Keras</b> &nbsp;•&nbsp;
   <b>OpenCV</b> &nbsp;•&nbsp;
   <b>Matplotlib</b>
@@ -288,9 +299,13 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavyaPatel21190607&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Kavya%27s%20GitHub%20Stats&cache_seconds=86400" height="190"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KavyaPatel21190607&theme=tokyonight" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaPatel21190607&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&cache_seconds=86400" height="190"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KavyaPatel21190607&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KavyaPatel21190607&theme=tokyonight" width="96%"/>
 </p>
 
 ---
@@ -313,8 +328,6 @@
 
 # 🐍 Contribution Snake
 
-> **Setup required:** Add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your repo to auto-generate this snake animation on every push.
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KavyaPatel21190607/KavyaPatel21190607/output/github-contribution-grid-snake-dark.svg">
@@ -322,6 +335,49 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/KavyaPatel21190607/KavyaPatel21190607/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+<details>
+<summary>⚙️ Setup: Add this GitHub Actions workflow to generate the snake</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: generate-snake-game-from-github-contribution-grid
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: generate-snake-game-from-github-contribution-grid
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: Platane/snk@v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
