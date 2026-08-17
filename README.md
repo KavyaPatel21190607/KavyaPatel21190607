@@ -203,7 +203,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,swift&theme=dark" />
   &nbsp;&nbsp;
-  <img src="https://api.iconify.design/streamline-logos:java-logo.svg?color=white" width="65" height="65" alt="Java"/>
+  <img src="https://api.iconify.design/devicon/java.svg?color=%23FFFFFF" width="65" height="65" alt="Java"/>
 </p>
 
 <p align="center">
