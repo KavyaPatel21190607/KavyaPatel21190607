@@ -338,49 +338,6 @@
   </picture>
 </p>
 
-<details>
-<summary>⚙️ Setup: Add this GitHub Actions workflow to generate the snake</summary>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: generate-snake-game-from-github-contribution-grid
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    name: generate-snake-game-from-github-contribution-grid
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - uses: Platane/snk@v3.5.0
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 ---
 
 # 🤝 Connect With Me
