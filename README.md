@@ -315,7 +315,11 @@
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KavyaPatel21190607&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly" width="75%"/>
+  <img
+    src="./profile/streak.svg"
+    width="75%"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
